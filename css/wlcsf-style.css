@@ -1,0 +1,70 @@
+.wp-listings-custom-search h3 {
+    border-bottom: 1px solid rgb(0, 0, 0);
+    color: rgb(27, 27, 27);
+    display: block;
+    margin: 5px 0;
+    padding-bottom: 7px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.wp-listings-custom-search .inner-80 {
+    margin: 0 auto;
+    width: 90%;
+}
+.wp-listings-custom-search .Property-Types .Heading {
+    display: block;
+    margin: 5px 0;
+}
+.wp-listings-custom-search .general-link {
+    margin: 10px 0;
+}
+.wp-listings-custom-search .general-link > label {
+    color: #1b1b1b;
+    display: block;
+    margin: 5px 0;
+}
+.wp-listings-custom-search .Counties {
+    position: relative;
+}
+.wp-listings-custom-search .btn-orrange {
+    background: none repeat scroll 0 0 #f84219;
+    border: medium none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    max-width: 100px;
+    padding: 6px;
+    text-align: center;
+    width: 100%;
+}
+.wp-listings-custom-search .btn-orrange:hover {
+    background: none repeat scroll 0 0 #0a2f88;
+}
+.Property-Types.wlcsw_inline_property, .general-link.wlcsw_inline_options, .Counties.wlcsw_inline_btn{
+    width: auto;
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+.Counties.wlcsw_inline_btn .searchsubmit{
+    margin: 5px 0;
+}
+.general-link.wlcsw_inline_options > label{
+    display: inline-block;
+    margin-right: 5px;
+}
+.inner-80.wlcsw_inline_wrapper{
+    width: 100%;
+}
+#searchformshortcode{
+    background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+    color: #444444;
+    padding: 0.5rem;
+}
+#searchformshortcode select.wp-listings-taxonomy{
+    display: inline-block;
+    margin-right: 2%;
+    width: 18%;
+}
+#searchformshortcode div.Counties{
+    display: inline-block;
+}

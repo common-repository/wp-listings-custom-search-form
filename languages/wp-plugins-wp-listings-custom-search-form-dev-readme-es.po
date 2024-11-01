@@ -1,0 +1,96 @@
+# Translation of Plugins - IMPress Listings Custom Search Widget - Development Readme (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - IMPress Listings Custom Search Widget - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - IMPress Listings Custom Search Widget - Development Readme (trunk)\n"
+
+#. Name.
+msgid "IMPress Listings Custom Search Widget"
+msgstr "IMPress Listings Custom Search Widget"
+
+#. Short description.
+msgid "It is an add-on of IMPress Listings plugin which allow to create custom search widget for real estate listing management system."
+msgstr "Es un complemento de Impress Listados plugin que permite crear widget de búsqueda personalizada para las propiedades inmobiliarias sistema de gestión de la lista."
+
+#. Found in faq paragraph.
+msgid "Yes. You can addd 2 different widgets for front page &amp; sidebar. If you want to display search widget in a single row then just select the checkbox \"Display widget inline.\" on widgets section."
+msgstr "Sí. Puede addd 2 diferentes widgets para portada & amp; barra lateral. Si desea mostrar widget de búsqueda en una sola fila a continuación, sólo tiene que seleccionar la casilla de verificación "widget de visualización en línea." en la sección de widgets."
+
+#. Found in faq header.
+msgid "Can I have an instance of an inline search and another of the usual search in order to have the inline in my front page (no listing) and the other one as usual in the sidebar?"
+msgstr "¿Puedo tener una instancia de una búsqueda en línea y otra de la búsqueda habitual con el fin de tener la línea en mi primera página (sin perfil) y el otro como es habitual en la barra lateral?"
+
+#. Found in description paragraph.
+msgid "First you have to install IMPress Listings plugin."
+msgstr "En primer lugar tiene que instalar Impress Listados plugin."
+
+#. Found in faq paragraph.
+msgid "First you have to install IMPress Listings plugin then activate this plugin."
+msgstr "En primer lugar tiene que instalar plug-in Impress listados a continuación, activar este plugin."
+
+#. Found in faq header.
+msgid "What is this plugin requirements for activation?"
+msgstr "¿Qué es este plugin de requisitos para la activación?"
+
+#. Found in installation paragraph.
+msgid "Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page."
+msgstr "Extraer el archivo zip y simplemente dejar el contenido en el wp-content / plugins / directorio de su instalación de WordPress y luego activar el plugin desde la página de plugins."
+
+#. Found in description paragraph.
+msgid "It is an add-on of IMPress Listings plugin which allow to create custom search widget for real estate listing management system. Designed to work with any theme using built-in templates."
+msgstr "Es un complemento de Impress Listados plugin que permite crear widget de búsqueda personalizada para las propiedades inmobiliarias sistema de gestión de la lista. Diseñado para funcionar con cualquier tema utilizando plantillas incorporadas."
+
+#. Screenshot description.
+msgid "Screenshot of admin widget section"
+msgstr "Captura de pantalla de la sección widget de administrador"
+
+#. Screenshot description.
+msgid "Frontend screenshot of widget"
+msgstr "Frontend pantalla del Reproductor"
+
+#. Found in changelog list item.
+msgid "Add WordPress translation ready functions."
+msgstr "Añadir la traducción de WordPress funciones listas."
+
+#. Found in changelog list item.
+msgid "Add inline widget display option."
+msgstr "Añadir widget de opción de visualización en línea."
+
+#. Found in changelog list item.
+msgid "Add text-domain to plugins file."
+msgstr "Añadir texto-dominio al archivo de plugins."
+
+#. Found in changelog list item.
+msgid "Release date: 17/10/2016"
+msgstr "Fecha de lanzamiento: 17/10/2016"
+
+#. Found in changelog list item.
+msgid "Bug fixed for not visible custom search widget."
+msgstr "Error corregido para widget de búsqueda personalizada no visible."
+
+#. Found in changelog list item.
+msgid "Release date: 23/09/2016"
+msgstr "Fecha de lanzamiento: 23/09/2016"
+
+#. Found in changelog list item.
+msgid "First version of plugin."
+msgstr "Primera versión del plug-in."
+
+#. Found in changelog list item.
+msgid "Release date: 21/09/2015"
+msgstr "Fecha de lanzamiento: 21/09/2015"
+
+#. Found in changelog list item.
+msgid "Bug fixes on plugin activation."
+msgstr "Corrección de errores en la activación de complemento."
+
+#. Found in changelog list item.
+msgid "Release date: 26/06/2016"
+msgstr "Fecha de lanzamiento: 26/06/2016"

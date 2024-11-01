@@ -1,0 +1,109 @@
+# Translation of Plugins - IMPress Listings Custom Search Widget - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - IMPress Listings Custom Search Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - IMPress Listings Custom Search Widget - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.anilmeena.com/"
+msgstr "http://www.anilmeena.com/"
+
+#. Author of the plugin/theme
+msgid "Anil Meena"
+msgstr "Anil Meena"
+
+#. Description of the plugin/theme
+msgid "It is an add-on of IMPress Listings plugin which allow to create custom search widget for real estate listing management system. Designed to work with any theme using built-in templates."
+msgstr "Es un complemento de Impress Listados plugin que permite crear widget de búsqueda personalizada para las propiedades inmobiliarias sistema de gestión de la lista. Diseñado para funcionar con cualquier tema utilizando plantillas incorporadas."
+
+#. Plugin Name of the plugin/theme
+msgid "IMPress Listings Custom Search Widget"
+msgstr "IMPress Listings Custom Search Widget"
+
+#: wp-listings-custom-search-form.php:194
+msgid "<p><input class=\"checkbox\" type=\"checkbox\" id=\"%1$s\" name=\"%2$s\" %3$s /><label for=\"%2$s\">%4$s</label></p>"
+msgstr "<p><input class=\"checkbox\" type=\"checkbox\" id=\"%1$s\" name=\"%2$s\" %3$s /><label for=\"%2$s\">%4$s</label></p>"
+
+#: wp-listings-custom-search-form.php:179
+msgid "<div class=\"error\"><p>Sorry, but WP Listings Custom Search Widget Plugin requires the IMPress Listings (WP Listings) to be installed and active.</p></div>"
+msgstr "<div class=\"error\"><p>Lo sentimos, pero WP Listados Custom Search Widget Plugin requiere la Listados Impress (WP Listados) para ser instalado y activo.</p></div>"
+
+#: wp-listings-custom-search-form.php:117
+msgid "Button Text:"
+msgstr "Botón de texto:"
+
+#: wp-listings-custom-search-form.php:113
+msgid "<p><label><input id=\"%s\" type=\"checkbox\" name=\"%s\" value=\"1\" %s />%s</label></p>"
+msgstr "<p><label><input id=\"%s\" type=\"checkbox\" name=\"%s\" value=\"1\" %s />%s</label></p>"
+
+#: wp-listings-custom-search-form.php:104
+msgid "Include these taxonomies in the search widget"
+msgstr "Incluir estas taxonomías en el widget de búsqueda"
+
+#: wp-listings-custom-search-form.php:102
+msgid "Title:"
+msgstr "Título:"
+
+#: wp-listings-custom-search-form.php:102
+#: wp-listings-custom-search-form.php:117
+msgid "<p><label for=\"%s\">%s</label><input type=\"text\" id=\"%s\" name=\"%s\" value=\"%s\" style=\"%s\" /></p>"
+msgstr "<p><label for=\"%s\">%s</label><input type=\"text\" id=\"%s\" name=\"%s\" value=\"%s\" style=\"%s\" /></p>"
+
+#: wp-listings-custom-search-form.php:94
+msgid "Search Listings"
+msgstr "Los anuncios de búsqueda"
+
+#: wp-listings-custom-search-form.php:80
+msgid "<div class=\"clear\"></div></form></div>"
+msgstr "<div class=\"clear\"></div></form></div>"
+
+#: wp-listings-custom-search-form.php:79
+msgid "<div class=\"Counties %2$s\"><button type=\"submit\" class=\"searchsubmit\"><i class=\"fa fa-search\" aria-hidden=\"true\"></i><span class=\"button-text\">%1$s</span></button></div>"
+msgstr "<div class=\"Counties %2$s\"><button type=\"submit\" class=\"searchsubmit\"><i class=\"fa fa-search\" aria-hidden=\"true\"></i><span class=\"button-text\">%1$s</span></button></div>"
+
+#: wp-listings-custom-search-form.php:73
+msgid "</div>"
+msgstr "</div>"
+
+#: wp-listings-custom-search-form.php:70
+msgid "<label><input name=\"%1$s\" id=\"%1$s\" type=\"radio\" value=\"%2$s\" %3$s>%2$s</label>"
+msgstr "<label><input name=\"%1$s\" id=\"%1$s\" type=\"radio\" value=\"%2$s\" %3$s>%2$s</label>"
+
+#: wp-listings-custom-search-form.php:67
+msgid "<div class=\"general-link %1$s\">"
+msgstr "<div class=\"general-link %1$s\">"
+
+#: wp-listings-custom-search-form.php:65
+msgid "<div class=\"Property-Types %2$s\"><span class=\"Heading\"> %1$s </span></div>"
+msgstr "<div class=\"Property-Types %2$s\"><span class=\"Heading\"> %1$s </span></div>"
+
+#: wp-listings-custom-search-form.php:44
+msgid "<form role=\"search\" method=\"get\" id=\"customsearchform\" action=\"%1$s\" ><input type=\"hidden\" value=\"\" name=\"s\" /><input type=\"hidden\" value=\"listing\" name=\"post_type\" />"
+msgstr "<form role=\"search\" method=\"get\" id=\"customsearchform\" action=\"%1$s\" ><input type=\"hidden\" value=\"\" name=\"s\" /><input type=\"hidden\" value=\"listing\" name=\"post_type\" />"
+
+#: wp-listings-custom-search-form.php:42
+msgid "<div class=\"inner-80 %s\">"
+msgstr "<div class=\"inner-80 %s\">"
+
+#: wp-listings-custom-search-form.php:33 wp-listings-custom-search-form.php:82
+msgid "%1$s"
+msgstr "%1$s"
+
+#: wp-listings-custom-search-form.php:24
+msgid "Search"
+msgstr "Buscar"
+
+#: wp-listings-custom-search-form.php:17
+msgid "WP Listings - Custom Search Form"
+msgstr "WP Listings - Custom Search Form"
+
+#: wp-listings-custom-search-form.php:15
+msgid "Display listings search dropdown"
+msgstr "Visualización de los listados de búsqueda desplegables"
